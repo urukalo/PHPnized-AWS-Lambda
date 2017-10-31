@@ -1,0 +1,24 @@
+{
+  "name": "aws-lambda-php",
+  "version": "1.0.0",
+  "description": "PHPnized AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urukalo/PHPnized-AWS-Lambda.git"
+  },
+  "keywords": [],
+  "author": "Milan Urukalo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urukalo/PHPnized-AWS-Lambda/issues"
+  },
+  "homepage": "https://github.com/urukalo/PHPnized-AWS-Lambda#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "http-string-parser": "0.0.6"
+  }
+}
